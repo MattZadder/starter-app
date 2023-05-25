@@ -3,6 +3,7 @@ import { Box, Container, Grid, Typography } from "@mui/material";
 
 export const Footer: FC = (): ReactElement => {
   return (
+<<<<<<< HEAD
     <Box
       sx={{
         width: "100%",
@@ -10,6 +11,17 @@ export const Footer: FC = (): ReactElement => {
       
         backgroundColor: "black",
         paddingTop: "1rem",
+=======
+    
+    <Box
+   
+      sx={{
+        
+        left:0,
+        bottom:0,
+        width: "100%",    
+        backgroundColor: "black",
+>>>>>>> c2b2efa (Actualizacion)
         paddingBottom: "1rem",
       }}
     >

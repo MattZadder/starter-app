@@ -13,10 +13,22 @@
     "@types/node": "^16.18.23",
     "@types/react": "^18.0.35",
     "@types/react-dom": "^18.0.11",
+<<<<<<< HEAD
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0",
     "react-scripts": "5.0.1",
+=======
+    "bootstrap": "^5.2.3",
+    "mongoose": "^7.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-player": "^2.12.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "5.0.1",
+    "reactstrap": "^9.1.9",
+>>>>>>> c2b2efa (Actualizacion)
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   },
@@ -43,5 +55,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
+>>>>>>> c2b2efa (Actualizacion)
   }
 }

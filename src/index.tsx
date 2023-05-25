@@ -3,8 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+<<<<<<< HEAD
 
 const root = ReactDOM.createRoot(
+=======
+<link rel="stylesheet" type="text/css" href="estilos.css" />
+const root = ReactDOM.createRoot(
+  
+>>>>>>> c2b2efa (Actualizacion)
   document.getElementById('root') as HTMLElement
 );
 root.render(
