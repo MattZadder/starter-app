@@ -31,6 +31,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Diagrama de Clases
 <br>
+
 [![Diagrama-en-blanco-P-gina-1.png](https://i.postimg.cc/nV4cR6jy/Diagrama-en-blanco-P-gina-1.png)](https://postimg.cc/14zQ47KB)
  
 Clase "Usuario":
