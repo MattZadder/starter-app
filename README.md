@@ -1,7 +1,7 @@
 # Página web de venta de instrumentos musicales
-Este es un proyecto de una página web de venta de instrumentos musicales. El objetivo de este proyecto es desarrollar una aplicación web que sirva y gestione una tienda de música, principalmente la pagina consta de varias pestañas para interés del usuario como la disposición de opciones en el inicio, tales como productos, go, about us y sitio de registro.
+<p> Este es un proyecto de una página web de venta de instrumentos musicales. El objetivo de este proyecto es desarrollar una aplicación web que sirva y gestione una tienda de música, principalmente la pagina consta de varias pestañas para interés del usuario como la disposición de opciones en el inicio, tales como productos, go, about us y sitio de registro.
 En esta página, podrás navegar por diferentes secciones, como la página de inicio, donde encontrarás ofertas destacadas, la sección de productos con una amplia variedad de instrumentos, la página "Acerca de nosotros" para conocer más sobre nuestra empresa y una página de inicio de sesión para acceder a características adicionales.
-El proyecto consiste en que la aplicación Windows/Web pueda mostrar al usuario los productos de su interés y luego comprarlos. Para poder realizar esto el proyecto se ha dividido en 3 partes claramente diferenciadas.
+El proyecto consiste en que la aplicación Windows/Web pueda mostrar al usuario los productos de su interés y luego comprarlos. Para poder realizar esto el proyecto se ha dividido en 3 partes claramente diferenciadas.</p>
 
 1.Diagramas de clases <br>
 2.Diagrama de uso <br>
