@@ -99,17 +99,19 @@ Nuestra arquitectura de capas consta de las siguientes capas:
 
 <br>
 <br>
-##Detalles de cada Capa
-
+## Detalles de cada Capa
+<br>
 [![Diagrama-en-blanco-P-gina-3.png](https://i.postimg.cc/6p2Jn7Df/Diagrama-en-blanco-P-gina-3.png)](https://postimg.cc/WdvHP4pd)
-
+<br>
+<br>
 •	En cada capa, tenemos componentes y servicios específicos que desempeñan un papel crucial en el funcionamiento del sistema.
 •	En la Capa de Presentación, utilizamos componentes de React con TypeScript para construir la interfaz de usuario y la lógica relacionada con la interfaz.
 •	En la Capa de Aplicación (Frontend), gestionamos la lógica principal de la aplicación, como la autenticación, el carrito de compras y la gestión de pedidos.
 •	En la Capa de Datos (Backend), manejamos la interacción con la base de datos, incluida la gestión de usuarios, productos y operaciones de carrito de compras.
 •	En la Capa de Infraestructura, proporcionamos los componentes y servicios de bajo nivel necesarios para el funcionamiento del sistema.
+<br>
 
-Conclusiones
+## Conclusiones
 En resumen, la arquitectura de capas es una elección sólida para nuestro proyecto de página web de instrumentos musicales debido a sus beneficios clave.
 Nos permite tener una aplicación modular, fácil de mantener y escalar, con una separación clara de responsabilidades.
 La arquitectura de capas nos brinda flexibilidad y nos permite adaptarnos a futuros cambios y mejoras en el proyecto.
@@ -118,6 +120,7 @@ La arquitectura de capas nos brinda flexibilidad y nos permite adaptarnos a futu
 
 <br>
 ## Tecnologías Utilizadas
+<br>
 Frontend:
 •	React: Un popular framework de JavaScript para construir interfaces de usuario interactivas y reutilizables. React permite crear componentes de interfaz de usuario reactivos y mantener un estado eficiente en la aplicación.<br>
 •	TypeScript: Un lenguaje de programación que amplía JavaScript al agregar tipado estático opcional. TypeScript proporciona ventajas como la detección temprana de errores, autocompletado mejorado y una mejor documentación del código.<br>
