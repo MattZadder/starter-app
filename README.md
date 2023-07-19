@@ -80,35 +80,37 @@ Flujo Alternativo 2: Agregar Nuevo Instrumento por Administrador:
 <br>
 <br>
 ## Arquitectura de Capas en el Proyecto de Página Web de Instrumentos Musicales
-
+<br>
 A continuación se muestra la presentación sobre la arquitectura de capas utilizada en nuestro proyecto de página web de instrumentos musicales.
 Antes de entrar en detalles sobre la arquitectura de capas, es importante comprender los desafíos que enfrentamos en el proyecto.
 Necesitamos manejar la complejidad de la aplicación, mantener un código limpio y modular, facilitar las pruebas y permitir futuras mejoras y escalabilidad.
 <br>
 La arquitectura de capas nos brinda varios beneficios significativos:
-•	Separación de Responsabilidades: Nos permite separar claramente las responsabilidades y el flujo de trabajo de diferentes componentes.
-•	Modularidad: Cada capa tiene una función específica, lo que facilita la adición, modificación o reemplazo de componentes sin afectar a otras partes del sistema.
-•	Reutilización de Componentes: Al tener una separación clara de capas, podemos reutilizar componentes en diferentes partes de la aplicación.
-•	Mantenibilidad: La estructura en capas facilita la identificación y solución de problemas, lo que agiliza el mantenimiento y la corrección de errores.
+<br>
+•	Separación de Responsabilidades: Nos permite separar claramente las responsabilidades y el flujo de trabajo de diferentes componentes.<br>
+•	Modularidad: Cada capa tiene una función específica, lo que facilita la adición, modificación o reemplazo de componentes sin afectar a otras partes del sistema.<br>
+•	Reutilización de Componentes: Al tener una separación clara de capas, podemos reutilizar componentes en diferentes partes de la aplicación.<br>
+•	Mantenibilidad: La estructura en capas facilita la identificación y solución de problemas, lo que agiliza el mantenimiento y la corrección de errores.<br>
+<br>
 Nuestra arquitectura de capas consta de las siguientes capas:
 <br>
-1.	Capa de Presentación (UI): Se encarga de la interfaz de usuario y la interacción con los usuarios finales.
-2.	Capa de Aplicación (Frontend): Gestiona la lógica de la aplicación y las interacciones con la interfaz de usuario.
-3.	Capa de Datos (Backend): Maneja la persistencia de datos y las operaciones relacionadas con la base de datos.
-4.	Capa de Infraestructura: Proporciona los componentes y servicios de bajo nivel necesarios para el funcionamiento del sistema.
+1.	Capa de Presentación (UI): Se encarga de la interfaz de usuario y la interacción con los usuarios finales.<br>
+2.	Capa de Aplicación (Frontend): Gestiona la lógica de la aplicación y las interacciones con la interfaz de usuario.<br>
+3.	Capa de Datos (Backend): Maneja la persistencia de datos y las operaciones relacionadas con la base de datos.<br>
+4.	Capa de Infraestructura: Proporciona los componentes y servicios de bajo nivel necesarios para el funcionamiento del sistema.<br>
 
 <br>
 <br>
 ## Detalles de cada Capa
 <br>
 [![Diagrama-en-blanco-P-gina-3.png](https://i.postimg.cc/6p2Jn7Df/Diagrama-en-blanco-P-gina-3.png)](https://postimg.cc/WdvHP4pd)
+
 <br>
-<br>
-•	En cada capa, tenemos componentes y servicios específicos que desempeñan un papel crucial en el funcionamiento del sistema.
-•	En la Capa de Presentación, utilizamos componentes de React con TypeScript para construir la interfaz de usuario y la lógica relacionada con la interfaz.
-•	En la Capa de Aplicación (Frontend), gestionamos la lógica principal de la aplicación, como la autenticación, el carrito de compras y la gestión de pedidos.
-•	En la Capa de Datos (Backend), manejamos la interacción con la base de datos, incluida la gestión de usuarios, productos y operaciones de carrito de compras.
-•	En la Capa de Infraestructura, proporcionamos los componentes y servicios de bajo nivel necesarios para el funcionamiento del sistema.
+•	En cada capa, tenemos componentes y servicios específicos que desempeñan un papel crucial en el funcionamiento del sistema.<br>
+•	En la Capa de Presentación, utilizamos componentes de React con TypeScript para construir la interfaz de usuario y la lógica relacionada con la interfaz.<br>
+•	En la Capa de Aplicación (Frontend), gestionamos la lógica principal de la aplicación, como la autenticación, el carrito de compras y la gestión de pedidos.<br>
+•	En la Capa de Datos (Backend), manejamos la interacción con la base de datos, incluida la gestión de usuarios, productos y operaciones de carrito de compras.<br>
+•	En la Capa de Infraestructura, proporcionamos los componentes y servicios de bajo nivel necesarios para el funcionamiento del sistema.<br>
 <br>
 
 ## Conclusiones
