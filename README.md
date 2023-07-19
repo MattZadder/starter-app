@@ -31,7 +31,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Diagrama de Clases
 <br>
-[Diagrama-en-blanco-P-gina-1.png](https://postimg.cc/14zQ47KB)
+[!Diagrama-en-blanco-P-gina-1.png](https://postimg.cc/14zQ47KB)
  
 Clase "Usuario":
 Descripción: Esta clase representa a un usuario del sistema, ya sea un usuario estándar o un administrador. Tiene atributos como su identificador, nombre, correo y contraseña. Los métodos iniciarSesion() y cerrarSesion() se utilizan para realizar la autenticación del usuario.
