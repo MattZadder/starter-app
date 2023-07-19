@@ -34,15 +34,15 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 [![xd-123.png](https://i.postimg.cc/wT9D1LRn/xd-123.png)](https://postimg.cc/Lh0J7qTV)
  
-Clase "Usuario":
-Descripción: Esta clase representa a un usuario del sistema, ya sea un usuario estándar o un administrador. Tiene atributos como su identificador, nombre, correo y contraseña. Los métodos iniciarSesion() y cerrarSesion() se utilizan para realizar la autenticación del usuario.
-Clase "Instrumento":
-Descripción: Esta clase representa un instrumento musical disponible para la venta. Tiene atributos como su identificador, nombre, precio, descripción, categoría y marca. El método obtenerInformación() devuelve una cadena de texto con información detallada sobre el instrumento.
-Clase "Carrito":
-Descripción: Esta clase representa el carrito de compras de un usuario estándar. Tiene atributos como su identificador, el identificador del usuario al que pertenece y la fecha en que se creó. Los métodos agregarProducto() y eliminarProducto() se utilizan para agregar y eliminar productos del carrito.
-Clase "Página de Inicio":
-Descripción: Esta clase representa la página de inicio de la aplicación. Tiene un atributo "contenido" que almacena el contenido de la página. El método mostrarContenido() se utiliza para mostrar el contenido de la página de inicio.
-Clase "Sección About Us":
+Clase "Usuario":<br>
+Descripción: Esta clase representa a un usuario del sistema, ya sea un usuario estándar o un administrador. Tiene atributos como su identificador, nombre, correo y contraseña. Los métodos iniciarSesion() y cerrarSesion() se utilizan para realizar la autenticación del usuario.<br>
+Clase "Instrumento":<br>
+Descripción: Esta clase representa un instrumento musical disponible para la venta. Tiene atributos como su identificador, nombre, precio, descripción, categoría y marca. El método obtenerInformación() devuelve una cadena de texto con información detallada sobre el instrumento.<br>
+Clase "Carrito":<br>
+Descripción: Esta clase representa el carrito de compras de un usuario estándar. Tiene atributos como su identificador, el identificador del usuario al que pertenece y la fecha en que se creó. Los métodos agregarProducto() y eliminarProducto() se utilizan para agregar y eliminar productos del carrito.<br>
+Clase "Página de Inicio":<br>
+Descripción: Esta clase representa la página de inicio de la aplicación. Tiene un atributo "contenido" que almacena el contenido de la página. El método mostrarContenido() se utiliza para mostrar el contenido de la página de inicio.<br>
+Clase "Sección About Us":<br>
 Descripción: Esta clase representa la sección "Acerca de nosotros" de la aplicación. Tiene un atributo "contenido" que almacena el contenido de esta sección. El método mostrarContenido() se utiliza para mostrar el contenido de la sección "Acerca de nosotros".
 
 
