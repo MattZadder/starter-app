@@ -99,7 +99,7 @@ Nuestra arquitectura de capas consta de las siguientes capas:
 
 <br>
 <br>
-Detalles de cada Capa
+##Detalles de cada Capa
 
 [![Diagrama-en-blanco-P-gina-3.png](https://i.postimg.cc/6p2Jn7Df/Diagrama-en-blanco-P-gina-3.png)](https://postimg.cc/WdvHP4pd)
 
@@ -126,10 +126,10 @@ Frontend:
 <br>
 Backend:
 •	Node.js: Un entorno de ejecución de JavaScript basado en el motor V8 de Google Chrome. Node.js permite ejecutar código JavaScript en el lado del servidor y construir aplicaciones web escalables y de alto rendimiento.<br>
-•	Express.js: Un framework web para Node.js que simplifica el desarrollo de aplicaciones web y proporciona una abstracción sobre las funcionalidades básicas de HTTP.
+•	Express.js: Un framework web para Node.js que simplifica el desarrollo de aplicaciones web y proporciona una abstracción sobre las funcionalidades básicas de HTTP. <br>
 •	MongoDB: Una base de datos NoSQL orientada a documentos que ofrece flexibilidad en el almacenamiento y recuperación de datos. MongoDB es muy utilizado en aplicaciones web y proporciona una forma sencilla de almacenar y consultar datos JSON.<br>
 •	Mongoose: Una librería de modelado de objetos para Node.js que proporciona una interfaz de alto nivel para interactuar con la base de datos MongoDB. Mongoose simplifica la definición de modelos y la validación de datos en la aplicación.<br><br>
-Otras tecnologías:
+Otras tecnologías:<br>
 •	Git: Un sistema de control de versiones distribuido que permite el seguimiento de cambios en el código fuente. Git facilita la colaboración en equipo y el mantenimiento de versiones del proyecto.<br>
 •	GitHub: Una plataforma de alojamiento y colaboración basada en Git. GitHub ofrece funcionalidades para alojar repositorios de código, gestionar problemas y solicitudes de cambios, y facilitar la colaboración entre desarrolladores.
 
