@@ -3,7 +3,7 @@ Este es un proyecto de una página web de venta de instrumentos musicales. El ob
 En esta página, podrás navegar por diferentes secciones, como la página de inicio, donde encontrarás ofertas destacadas, la sección de productos con una amplia variedad de instrumentos, la página "Acerca de nosotros" para conocer más sobre nuestra empresa y una página de inicio de sesión para acceder a características adicionales.
 El proyecto consiste en que la aplicación Windows/Web pueda mostrar al usuario los productos de su interés y luego comprarlos. Para poder realizar esto el proyecto se ha dividido en 3 partes claramente diferenciadas.
 
-1.Diagramas de clases
+1.Diagramas de clases <br>
 2.Diagrama de uso
 3 Diagrama de arquitectura
 
