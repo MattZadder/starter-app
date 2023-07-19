@@ -31,7 +31,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Diagrama de Clases
 <br>
-[!Diagrama-en-blanco-P-gina-1.png](https://postimg.cc/14zQ47KB)
+[![Diagrama-en-blanco-P-gina-1.png](https://i.postimg.cc/nV4cR6jy/Diagrama-en-blanco-P-gina-1.png)](https://postimg.cc/14zQ47KB)
  
 Clase "Usuario":
 Descripción: Esta clase representa a un usuario del sistema, ya sea un usuario estándar o un administrador. Tiene atributos como su identificador, nombre, correo y contraseña. Los métodos iniciarSesion() y cerrarSesion() se utilizan para realizar la autenticación del usuario.
@@ -73,7 +73,7 @@ Flujo Alternativo 2: Agregar Nuevo Instrumento por Administrador:
 4.	El sistema registra el nuevo instrumento en la base de datos.
 
 
-![Caso de Uso](ruta/al/caso_de_uso.png)
+[![Diagrama-en-blanco-P-gina-2.png](https://i.postimg.cc/nhCZ2SQ7/Diagrama-en-blanco-P-gina-2.png)](https://postimg.cc/SnFwNrdN)
 
 
 <br>
@@ -100,7 +100,7 @@ Nuestra arquitectura de capas consta de las siguientes capas:
 <br>
 Detalles de cada Capa
 
-![Diagrama de Arquitectura](ruta/al/diagrama_de_arquitectura.png)
+[![Diagrama-en-blanco-P-gina-3.png](https://i.postimg.cc/6p2Jn7Df/Diagrama-en-blanco-P-gina-3.png)](https://postimg.cc/WdvHP4pd)
 
 •	En cada capa, tenemos componentes y servicios específicos que desempeñan un papel crucial en el funcionamiento del sistema.
 •	En la Capa de Presentación, utilizamos componentes de React con TypeScript para construir la interfaz de usuario y la lógica relacionada con la interfaz.
