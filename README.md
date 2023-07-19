@@ -103,7 +103,7 @@ Nuestra arquitectura de capas consta de las siguientes capas:
 <br>
 ## Detalles de cada Capa
 <br>
-[![Diagrama-en-blanco-P-gina-3.png](https://i.postimg.cc/6p2Jn7Df/Diagrama-en-blanco-P-gina-3.png)](https://postimg.cc/WdvHP4pd)
+[![XXDXDXDX.png](https://i.postimg.cc/Cx00vXvn/XXDXDXDX.png)](https://postimg.cc/XpstqH6n)
 
 <br>
 •	En cada capa, tenemos componentes y servicios específicos que desempeñan un papel crucial en el funcionamiento del sistema.<br>
