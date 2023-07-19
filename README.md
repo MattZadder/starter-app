@@ -4,10 +4,10 @@ En esta página, podrás navegar por diferentes secciones, como la página de in
 El proyecto consiste en que la aplicación Windows/Web pueda mostrar al usuario los productos de su interés y luego comprarlos. Para poder realizar esto el proyecto se ha dividido en 3 partes claramente diferenciadas.
 
 1.Diagramas de clases <br>
-2.Diagrama de uso
-3 Diagrama de arquitectura
+2.Diagrama de uso <br>
+3 Diagrama de arquitectura <br>
 
-
+ <br>
 
 
 ## Instalación
@@ -17,7 +17,7 @@ El proyecto consiste en que la aplicación Windows/Web pueda mostrar al usuario 
 4. Configura y prepara el entorno del frontend.
 5. Ejecuta el proyecto y abre la página web en tu navegador.
 
-   
+   <br>
 
 ## Contribución
 Si deseas contribuir a este proyecto, sigue estos pasos:
@@ -27,10 +27,10 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 4. Envía los cambios a la rama remota: `git push origin nueva-caracteristica`.
 5. Envía una solicitud de extracción en GitHub.
 
-
+<br>
 
 ## Diagrama de Clases
-
+<br>
  ![Diagrama de Clases](ruta/al/diagrama_de_clases.png)
  
 Clase "Usuario":
@@ -45,9 +45,9 @@ Clase "Sección About Us":
 Descripción: Esta clase representa la sección "Acerca de nosotros" de la aplicación. Tiene un atributo "contenido" que almacena el contenido de esta sección. El método mostrarContenido() se utiliza para mostrar el contenido de la sección "Acerca de nosotros".
 
 
+<br>
 
-
-
+<br>
 
 ## Caso de Uso
 El diagrama de caso de uso muestra las interacciones entre los actores (usuarios) y el sistema, representando los diferentes casos de uso o funcionalidades del sistema.
@@ -76,27 +76,28 @@ Flujo Alternativo 2: Agregar Nuevo Instrumento por Administrador:
 ![Caso de Uso](ruta/al/caso_de_uso.png)
 
 
-
+<br>
+<br>
 ## Arquitectura de Capas en el Proyecto de Página Web de Instrumentos Musicales
 
 A continuación se muestra la presentación sobre la arquitectura de capas utilizada en nuestro proyecto de página web de instrumentos musicales.
 Antes de entrar en detalles sobre la arquitectura de capas, es importante comprender los desafíos que enfrentamos en el proyecto.
 Necesitamos manejar la complejidad de la aplicación, mantener un código limpio y modular, facilitar las pruebas y permitir futuras mejoras y escalabilidad.
-
+<br>
 La arquitectura de capas nos brinda varios beneficios significativos:
 •	Separación de Responsabilidades: Nos permite separar claramente las responsabilidades y el flujo de trabajo de diferentes componentes.
 •	Modularidad: Cada capa tiene una función específica, lo que facilita la adición, modificación o reemplazo de componentes sin afectar a otras partes del sistema.
 •	Reutilización de Componentes: Al tener una separación clara de capas, podemos reutilizar componentes en diferentes partes de la aplicación.
 •	Mantenibilidad: La estructura en capas facilita la identificación y solución de problemas, lo que agiliza el mantenimiento y la corrección de errores.
 Nuestra arquitectura de capas consta de las siguientes capas:
-
+<br>
 1.	Capa de Presentación (UI): Se encarga de la interfaz de usuario y la interacción con los usuarios finales.
 2.	Capa de Aplicación (Frontend): Gestiona la lógica de la aplicación y las interacciones con la interfaz de usuario.
 3.	Capa de Datos (Backend): Maneja la persistencia de datos y las operaciones relacionadas con la base de datos.
 4.	Capa de Infraestructura: Proporciona los componentes y servicios de bajo nivel necesarios para el funcionamiento del sistema.
 
-
-
+<br>
+<br>
 Detalles de cada Capa
 
 ![Diagrama de Arquitectura](ruta/al/diagrama_de_arquitectura.png)
@@ -114,20 +115,21 @@ La arquitectura de capas nos brinda flexibilidad y nos permite adaptarnos a futu
 
 
 
-
+<br>
 ## Tecnologías Utilizadas
 Frontend:
-•	React: Un popular framework de JavaScript para construir interfaces de usuario interactivas y reutilizables. React permite crear componentes de interfaz de usuario reactivos y mantener un estado eficiente en la aplicación.
-•	TypeScript: Un lenguaje de programación que amplía JavaScript al agregar tipado estático opcional. TypeScript proporciona ventajas como la detección temprana de errores, autocompletado mejorado y una mejor documentación del código.
-•	HTML y CSS: Lenguajes fundamentales para estructurar y dar estilo a las páginas web. HTML se utiliza para definir la estructura del contenido, mientras que CSS se utiliza para aplicar estilos y diseños a las páginas.
-•	React Router: Una librería de enrutamiento para React que permite gestionar la navegación entre diferentes vistas y componentes dentro de la aplicación.
+•	React: Un popular framework de JavaScript para construir interfaces de usuario interactivas y reutilizables. React permite crear componentes de interfaz de usuario reactivos y mantener un estado eficiente en la aplicación.<br>
+•	TypeScript: Un lenguaje de programación que amplía JavaScript al agregar tipado estático opcional. TypeScript proporciona ventajas como la detección temprana de errores, autocompletado mejorado y una mejor documentación del código.<br>
+•	HTML y CSS: Lenguajes fundamentales para estructurar y dar estilo a las páginas web. HTML se utiliza para definir la estructura del contenido, mientras que CSS se utiliza para aplicar estilos y diseños a las páginas. <br>
+•	React Router: Una librería de enrutamiento para React que permite gestionar la navegación entre diferentes vistas y componentes dentro de la aplicación.<br>
+<br>
 Backend:
-•	Node.js: Un entorno de ejecución de JavaScript basado en el motor V8 de Google Chrome. Node.js permite ejecutar código JavaScript en el lado del servidor y construir aplicaciones web escalables y de alto rendimiento.
+•	Node.js: Un entorno de ejecución de JavaScript basado en el motor V8 de Google Chrome. Node.js permite ejecutar código JavaScript en el lado del servidor y construir aplicaciones web escalables y de alto rendimiento.<br>
 •	Express.js: Un framework web para Node.js que simplifica el desarrollo de aplicaciones web y proporciona una abstracción sobre las funcionalidades básicas de HTTP.
-•	MongoDB: Una base de datos NoSQL orientada a documentos que ofrece flexibilidad en el almacenamiento y recuperación de datos. MongoDB es muy utilizado en aplicaciones web y proporciona una forma sencilla de almacenar y consultar datos JSON.
-•	Mongoose: Una librería de modelado de objetos para Node.js que proporciona una interfaz de alto nivel para interactuar con la base de datos MongoDB. Mongoose simplifica la definición de modelos y la validación de datos en la aplicación.
+•	MongoDB: Una base de datos NoSQL orientada a documentos que ofrece flexibilidad en el almacenamiento y recuperación de datos. MongoDB es muy utilizado en aplicaciones web y proporciona una forma sencilla de almacenar y consultar datos JSON.<br>
+•	Mongoose: Una librería de modelado de objetos para Node.js que proporciona una interfaz de alto nivel para interactuar con la base de datos MongoDB. Mongoose simplifica la definición de modelos y la validación de datos en la aplicación.<br><br>
 Otras tecnologías:
-•	Git: Un sistema de control de versiones distribuido que permite el seguimiento de cambios en el código fuente. Git facilita la colaboración en equipo y el mantenimiento de versiones del proyecto.
+•	Git: Un sistema de control de versiones distribuido que permite el seguimiento de cambios en el código fuente. Git facilita la colaboración en equipo y el mantenimiento de versiones del proyecto.<br>
 •	GitHub: Una plataforma de alojamiento y colaboración basada en Git. GitHub ofrece funcionalidades para alojar repositorios de código, gestionar problemas y solicitudes de cambios, y facilitar la colaboración entre desarrolladores.
 
 
